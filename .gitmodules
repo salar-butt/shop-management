@@ -1,0 +1,6 @@
+[submodule "shopmanagement-frontend"]
+	path = shopmanagement-frontend
+	url = https://github.com/salar-butt/shopmanagement-frontend.git
+[submodule "shopmanagement-backend"]
+	path = shopmanagement-backend
+	url = https://github.com/salar-butt/shopmanagement-backend.git
